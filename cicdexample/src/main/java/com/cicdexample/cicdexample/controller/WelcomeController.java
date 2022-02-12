@@ -9,5 +9,4 @@ public class WelcomeController {
     public String getMethodName() {
         return "Test";
     }
-
 }
